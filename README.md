@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Erdoğan</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on **Golang**
+- 🔭 I’m currently working on **Golang,Java Spring Boot**
+
+- 🌱 I’m currently learning **Frontend technologies**
+
+- 📫 How to reach me **https://www.linkedin.com/in/erdoganakdeniz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/erdoganakdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="erdoganakdeniz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erdoganakdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdoganakdeniz" height="30" width="40" /></a>
+<a href="https://medium.com/@erdoganakdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erdoganakdeniz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
