@@ -5,7 +5,7 @@
 
 - 💫 I'm interested in **Blockchain Technology,DeFi,Smart Contract**
 
-- 🌱 I’m currently learning **Frontend technologies**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/erdoganakdeniz/**
 
