@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erdoğan</h1>
 <h3 align="center">Backend Developer</h3>
+ 
+- 🔭 I’m currently working on **Java Spring Boot,Golang**
 
-- 🔭 I’m currently working on **Golang,Microservices**
+- 💫 I'm interested in **Blockchain Technology,DeFi,Smart Contract**
 
 - 🌱 I’m currently learning **Frontend technologies**
 
